@@ -30,32 +30,45 @@
 ## Descriptions
 This repository its for learn and improve my skills about [TailwindCSS](https://tailwindcss.com/).
 
-## See the Demo
 <div align="center">
 
 ### MINI PROJECTS
 
-Login Modal <br><br>
+Login Modal - [Demo](https://login-modal-seven.vercel.app/) - [Repository]("./mini-projects/login-modal")<br><br> 
   <img src="readme/layout/login-modal.png" alt="Login Modal"/>
-<br><br> Product Modal <br><br>
+<br><br> Product Modal - [Demo](https://product-modal-rho.vercel.app/) - [Repository]("./mini-projects/product-modal")<br><br> 
   <img src="readme/layout/product-modal.png" alt="Product Modal"/>
-<br><br> Email Subscribe <br><br>
+<br><br> Email Subscribe - [Demo](https://email-subscribe-xi.vercel.app/) - [Repository]("./mini-projects/email-subscribe")<br><br> 
   <img src="readme/layout/email-subscribe.png" alt="Email Subscribe"/>
-<br><br> Pricing Cards <br><br>
+<br><br> Pricing Cards - [Demo](https://pricing-cards-beta.vercel.app/) - [Repository]("./mini-projects/pricing-cards")<br><br>
   <img src="readme/layout/pricing-cards.png" alt="Pricing Cards"/>
-<br><br> Image Gallery <br><br>
+<br><br> Image Gallery - [Demo](https://image-gallery-six-pied.vercel.app/) - [Repository]("./mini-projects/image-gallery")<br><br> 
   <img src="readme/layout/image-gallery.png" alt="Image Gallery"/>
 
 ### WEB PROJECTS
 
-Clipboard <br><br>
+Clipboard - [Demo](https://clipboard-omega.vercel.app/) - [Repository]("./web-projects/clipboard") <br><br> 
   <img src="readme/layout/clipboard.png" alt="Clipboard"/>
-<br><br> LoopStudios <br><br>
+<br><br> LoopStudios - [Demo](https://loopstudios-alpha-smoky.vercel.app/) - [Repository]("./web-projects/loopstudios") <br><br> 
   <img src="readme/layout/loopstudios.png" alt="LoopStudios"/>
-
+<br><br> Shortly - [Demo]() - [Repository]("./web-projects/shortly") <br><br> 
+  <img src="readme/layout/shortly.png" alt="LoopStudios"/>
 </div>
 
 <br />
+
+## Programming Languages and Frameworks.
+```Bash
+# TailwindCSS
+# HTML5 / CSS3
+# Javascript
+```
+
+## System Requirements
+```Bash
+# Git
+# Node
+```
 
 ## Installing and run the project
 
