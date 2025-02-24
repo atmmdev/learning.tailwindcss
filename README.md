@@ -42,7 +42,7 @@ Login Modal - [Demo](https://login-modal-seven.vercel.app/) - [Repository]("./mi
   <img src="readme/layout/email-subscribe.png" alt="Email Subscribe"/>
 <br><br> Pricing Cards - [Demo](https://pricing-cards-beta.vercel.app/) - [Repository]("./mini-projects/pricing-cards")<br><br>
   <img src="readme/layout/pricing-cards.png" alt="Pricing Cards"/>
-<br><br> Image Gallery - [Demo](https://image-gallery-six-pied.vercel.app/) - [Repository]("./mini-projects/image-gallery")<br><br> 
+<br><br> Image Gallery - [Demo](https://image-gallery-six-pied.vercel.app/) - [Repository]("../mini-projects/image-gallery")<br><br> 
   <img src="readme/layout/image-gallery.png" alt="Image Gallery"/>
 
 ### WEB PROJECTS
@@ -51,7 +51,7 @@ Clipboard - [Demo](https://clipboard-omega.vercel.app/) - [Repository]("./web-pr
   <img src="readme/layout/clipboard.png" alt="Clipboard"/>
 <br><br> LoopStudios - [Demo](https://loopstudios-alpha-smoky.vercel.app/) - [Repository]("./web-projects/loopstudios") <br><br> 
   <img src="readme/layout/loopstudios.png" alt="LoopStudios"/>
-<br><br> Shortly - [Demo](https://shortly-tau-ten.vercel.app/) - [Repository]("./web-projects/shortly") <br><br> 
+<br><br> Shortly - [Demo](https://shortly-tau-ten.vercel.app/) - [Repository]("../web-projects/shortly") <br><br> 
   <img src="readme/layout/shortly.png" alt="Shortly"/>
 </div>
 
