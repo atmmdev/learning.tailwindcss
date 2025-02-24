@@ -53,6 +53,8 @@ Clipboard - [Demo](https://clipboard-omega.vercel.app/) - [Repository](./web-pro
   <img src="readme/layout/loopstudios.png" alt="LoopStudios"/>
 <br><br> Shortly - [Demo](https://shortly-tau-ten.vercel.app/) - [Repository](./web-projects/shortly) <br><br> 
   <img src="readme/layout/shortly.png" alt="Shortly"/>
+<br><br> Testimonial Grid - [Demo](https://testimonial-grid-alpha-seven.vercel.app/) - [Repository](./web-projects/testimonial-grid/) <br><br> 
+  <img src="readme/layout/testmonial-grid.png" alt="Shortly"/>
 </div>
 
 <br />
