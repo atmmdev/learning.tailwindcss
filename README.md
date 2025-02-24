@@ -51,7 +51,7 @@ Clipboard - [Demo](https://clipboard-omega.vercel.app/) - [Repository]("./web-pr
   <img src="readme/layout/clipboard.png" alt="Clipboard"/>
 <br><br> LoopStudios - [Demo](https://loopstudios-alpha-smoky.vercel.app/) - [Repository]("./web-projects/loopstudios") <br><br> 
   <img src="readme/layout/loopstudios.png" alt="LoopStudios"/>
-<br><br> Shortly - [Demo](https://shortly-tau-ten.vercel.app/) - [Repository]("../web-projects/shortly") <br><br> 
+<br><br> Shortly - [Demo](https://shortly-tau-ten.vercel.app/) - [Repository](./web-projects/shortly) <br><br> 
   <img src="readme/layout/shortly.png" alt="Shortly"/>
 </div>
 
