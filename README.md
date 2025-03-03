@@ -57,6 +57,8 @@ Clipboard - [Demo](https://clipboard-omega.vercel.app/) - [Repository](./web-pro
   <img src="readme/layout/testmonial-grid.png" alt="Testimonial Grid"/>
 <br><br> Fylo - [Demo](https://fylo-inky-seven.vercel.app/) - [Repository](./web-projects/fylo/) <br><br> 
   <img src="readme/layout/fylo.png" alt="Fylo"/>
+<br><br> Bookmark - [Demo](https://fylo-inky-seven.vercel.app/) - [Repository](./web-projects/bookmark/) <br><br> 
+  <img src="readme/layout/bookmark.png" alt="Bookmark"/>
 </div>
 
 <br />
