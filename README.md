@@ -9,8 +9,8 @@
 <br >
 <!-- References for Create budgets :: https://shields.io/category/build -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=Status&message=Development&color=tomato"/>
-  <!-- <img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=darkgreen"/> -->
+  <!-- <img src="https://img.shields.io/static/v1?label=Status&message=Development&color=tomato"/> -->
+  <img src="https://img.shields.io/static/v1?label=Status&message=Complete&color=darkgreen"/>
   <!-- <img src="https://img.shields.io/static/v1?label=CSS&message=3.0&color=blue"/> -->
   <img src="https://img.shields.io/static/v1?label=TailwindCSS&message=3.0&color=purple"/>
   <!-- <img src="https://img.shields.io/static/v1?label=Bootstrap&message=5.3.x&color=DeepPink"/> -->
@@ -37,30 +37,30 @@ This repository its for learn and improve my skills about [TailwindCSS](https://
 
 ### MINI PROJECTS
 
-Login Modal - [Demo](https://login-modal-seven.vercel.app/) - [Repository](./mini-projects/login-modal)<br><br> 
+Login Modal - [Demo](https://atmm.dev/courses/tailwindcss/login-modal/) - [Repository](./mini-projects/login-modal)<br><br> 
   <img src="readme/layout/login-modal.png" alt="Login Modal"/>
-<br><br> Product Modal - [Demo](https://product-modal-rho.vercel.app/) - [Repository](./mini-projects/product-modal)<br><br> 
+<br><br> Product Modal - [Demo](https://atmm.dev/courses/tailwindcss/product-modal/) - [Repository](./mini-projects/product-modal)<br><br> 
   <img src="readme/layout/product-modal.png" alt="Product Modal"/>
-<br><br> Email Subscribe - [Demo](https://email-subscribe-xi.vercel.app/) - [Repository](./mini-projects/email-subscribe)<br><br> 
+<br><br> Email Subscribe - [Demo](https://atmm.dev/courses/tailwindcss/email-subscribe/) - [Repository](./mini-projects/email-subscribe)<br><br> 
   <img src="readme/layout/email-subscribe.png" alt="Email Subscribe"/>
-<br><br> Pricing Cards - [Demo](https://pricing-cards-beta.vercel.app/) - [Repository](./mini-projects/pricing-cards)<br><br>
+<br><br> Pricing Cards - [Demo](https://atmm.dev/courses/tailwindcss/pricing-cards/) - [Repository](./mini-projects/pricing-cards)<br><br>
   <img src="readme/layout/pricing-cards.png" alt="Pricing Cards"/>
-<br><br> Image Gallery - [Demo](https://image-gallery-six-pied.vercel.app/) - [Repository](./mini-projects/image-gallery)<br><br> 
+<br><br> Image Gallery - [Demo](https://atmm.dev/courses/tailwindcss/image-gallery/) - [Repository](./mini-projects/image-gallery)<br><br> 
   <img src="readme/layout/image-gallery.png" alt="Image Gallery"/>
 
 ### WEB PROJECTS
 
-Clipboard - [Demo](https://clipboard-omega.vercel.app/) - [Repository](./web-projects/clipboard) <br><br> 
+Clipboard - [Demo](https://atmm.dev/courses/tailwindcss/clipboard/) - [Repository](./web-projects/clipboard) <br><br> 
   <img src="readme/layout/clipboard.png" alt="Clipboard"/>
-<br><br> LoopStudios - [Demo](https://loopstudios-alpha-smoky.vercel.app/) - [Repository](./web-projects/loopstudios) <br><br> 
+<br><br> LoopStudios - [Demo](https://atmm.dev/courses/tailwindcss/loopstudios/) - [Repository](./web-projects/loopstudios) <br><br> 
   <img src="readme/layout/loopstudios.png" alt="LoopStudios"/>
-<br><br> Shortly - [Demo](https://shortly-tau-ten.vercel.app/) - [Repository](./web-projects/shortly) <br><br> 
+<br><br> Shortly - [Demo](https://atmm.dev/courses/tailwindcss/shortly/) - [Repository](./web-projects/shortly) <br><br> 
   <img src="readme/layout/shortly.png" alt="Shortly"/>
-<br><br> Testimonial Grid - [Demo](https://testimonial-grid-alpha-seven.vercel.app/) - [Repository](./web-projects/testimonial-grid/) <br><br> 
+<br><br> Testimonial Grid - [Demo](https://atmm.dev/courses/tailwindcss/testimonial-grid/) - [Repository](./web-projects/testimonial-grid/) <br><br> 
   <img src="readme/layout/testmonial-grid.png" alt="Testimonial Grid"/>
-<br><br> Fylo - [Demo](https://fylo-inky-seven.vercel.app/) - [Repository](./web-projects/fylo/) <br><br> 
+<br><br> Fylo - [Demo](https://atmm.dev/courses/tailwindcss/fylo/) - [Repository](./web-projects/fylo/) <br><br> 
   <img src="readme/layout/fylo.png" alt="Fylo"/>
-<br><br> Bookmark - [Demo](https://fylo-inky-seven.vercel.app/) - [Repository](./web-projects/bookmark/) <br><br> 
+<br><br> Bookmark - [Demo](https://atmm.dev/courses/tailwindcss/bookmark/) - [Repository](./web-projects/bookmark/) <br><br> 
   <img src="readme/layout/bookmark.png" alt="Bookmark"/>
 </div>
 
